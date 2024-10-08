@@ -7,6 +7,10 @@ Currently, a student pursuing Masters in Computer Science @Rochester Institute o
 
 # 💻 Tech Stack:
 ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+<h4>Certifications: </h4>
+<p align="left">
+  <a href="[https://cp.certmetrics.com/amazon/en/public/verify/credential/bc790c428cc7422691583535e40ff245](https://www.credly.com/badges/15dc5633-534f-4a8d-bab9-e47348b8c768/public_url)"><img src="aws-certified-cloud-practitioner.png" alt="Description of the image"></a>
+</p>
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=chetanchandane&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=chetanchandane&theme=dark&hide_border=false)<br/>
