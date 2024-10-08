@@ -15,7 +15,6 @@
         <li>💙 Was working as Senior Devops Engineer @Vodafone Intelligent Solutions</li>
         <li>❤️ I love developing, automating applications, learning more about Cloud Technologies</li>
         <li>🔭 Am currently learning more about <b>Cloud & CICD</b>.</li>
-        <li>🌱 I have a deep interest in Finance, Technology & Fitness.</li>
         <li>⚡ Fun fact: I enjoy Cooking while i listen to Music.</li>
         <li>📫 You can reach out to me at: <a href="cc5831@rit.edu">Email ID</a></li>
       </ul>
