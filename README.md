@@ -16,7 +16,7 @@
         <li>❤️ I love developing, automating applications, learning more about Cloud Technologies</li>
         <li>🔭 Am currently learning more about <b>Cloud & CICD</b>.</li>
         <li>⚡ Fun fact: I enjoy Cooking while i listen to Music.</li>
-        <li>📫 You can reach out to me at: <a href="cc5831@rit.edu">Email ID</a></li>
+        <li>📫 You can reach out to me at: <a href="mailto:cc5831@g.rit.edu">cc5831@g.rit.edu</a></li>
       </ul>
     </small>
   </div>
