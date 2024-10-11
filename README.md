@@ -5,7 +5,7 @@
 <h3 style="font-family: Cambria; font-size: 16px">Social Links:</h3>
 <p align="center">
   <a href="https://www.linkedin.com/in/chetanchandane/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:cc5831@rit.g.edu"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
+  <a href="mailto:cc5831@g.rit.edu"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
 </p>
 <div>
     <h3 style="font-family: Cambria; font-size: 16px;">About Me:</h3>
