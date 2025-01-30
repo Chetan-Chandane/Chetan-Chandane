@@ -51,6 +51,7 @@
 <h4>Certifications: </h4>
 <p align="left">
   <a href="[https://cp.certmetrics.com/amazon/en/public/verify/credential/bc790c428cc7422691583535e40ff245](https://www.credly.com/badges/15dc5633-534f-4a8d-bab9-e47348b8c768/public_url)"><img src="aws-certified-cloud-practitioner.png" alt="Description of the image"></a>
+   <a><img src="aws-sollution-arch-badge.png" alt="Description of the image"></a>
 </p>
 
 # 📊 GitHub Stats:
