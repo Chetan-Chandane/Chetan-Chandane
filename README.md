@@ -12,7 +12,7 @@
     <small>
       <ul>
         <li>💼 Currently, a student pursuing Masters in Computer Science @Rochester Institute of Technology</li>
-        <li>💙 Was working as Senior Devops Engineer @Vodafone Intelligent Solutions</li>
+        <li>💙 Was working as Devops Engineer @Vodafone Intelligent Solutions</li>
         <li>❤️ I love developing, automating applications, learning more about Cloud Technologies</li>
         <li>🔭 Am currently learning more about <b>Cloud & CICD</b>.</li>
         <li>⚡ Fun fact: I enjoy Cooking while i listen to Music.</li>
